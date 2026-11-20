@@ -99,4 +99,3 @@ StableBit Scanner flagged a file system issue on a 10 TB drive even though its s
 ## Skills demonstrated
 
 Hyper-V virtualisation, Windows Server and Active Directory, virtual networking, SMB file sharing, Plex administration and storage fault diagnosis.
-
